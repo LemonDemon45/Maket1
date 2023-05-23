@@ -1,0 +1,40 @@
+.qw, .as, .ss, .conteiner, .log{
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner{
+    margin-top: 190px;
+}
+
+input{
+    margin: 6px;
+    padding-left: 20px;
+    width: 700px;
+    height: 39px;
+    border-radius: 5px;
+    border: 1px solid #c0c0c0;
+}
+
+button{
+    border: 0px solid #1353ff;
+    width: 700px;
+    height: 39px;
+    color: white;
+    margin: 6px;
+    background-color: #1353ff;
+}
+
+p{
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+p.voi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
